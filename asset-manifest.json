@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Jarayed/static/css/main.dea659a7.css",
-    "main.js": "/Jarayed/static/js/main.68c9c9dc.js",
+    "main.css": "/Jarayed/static/css/main.8c3addc6.css",
+    "main.js": "/Jarayed/static/js/main.0afa85b7.js",
     "static/js/453.08c78f33.chunk.js": "/Jarayed/static/js/453.08c78f33.chunk.js",
+    "static/media/jarayed-high-resolution-logo-black-transparent.png": "/Jarayed/static/media/jarayed-high-resolution-logo-black-transparent.9ada5fa693c21fe03771.png",
     "index.html": "/Jarayed/index.html",
-    "main.dea659a7.css.map": "/Jarayed/static/css/main.dea659a7.css.map",
-    "main.68c9c9dc.js.map": "/Jarayed/static/js/main.68c9c9dc.js.map",
+    "main.8c3addc6.css.map": "/Jarayed/static/css/main.8c3addc6.css.map",
+    "main.0afa85b7.js.map": "/Jarayed/static/js/main.0afa85b7.js.map",
     "453.08c78f33.chunk.js.map": "/Jarayed/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea659a7.css",
-    "static/js/main.68c9c9dc.js"
+    "static/css/main.8c3addc6.css",
+    "static/js/main.0afa85b7.js"
   ]
 }
